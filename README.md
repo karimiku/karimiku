@@ -4,7 +4,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimiku&layout=compact&theme=tokyonight" />
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karimiku&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karimiku&theme=tokyonight)
 <!--
 **karimiku/karimiku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
