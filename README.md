@@ -14,3 +14,5 @@ https://myportfolio-six-rouge.vercel.app/
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karimiku&theme=tokyonight)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=karimiku&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
