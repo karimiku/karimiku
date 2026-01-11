@@ -1,18 +1,54 @@
-### Hello
-**東京都市大学 情報工学部 情報科学科 ２年**
+<div align="center">
 
-バックエンド・サーバーサイドの領域からサービスを支え、世の中に価値を提供できるエンジニアを目指しています！
+# Hi there, I'm Riku Kamiyama 👋
 
-ポートフォリオ
-https://myportfolio-six-rouge.vercel.app/
+### A Backend Engineer focused on Scalable Systems & Go.
 
+<br>
 
-<img src="https://go.dev/images/go-logo-blue.svg" width="100" alt="Go Logo" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="60" alt="Go Icon" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=karimiku&show_icons=true&theme=tokyonight&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimiku&layout=compact&theme=tokyonight" />
+## 👨‍💻 About Me
 
+- 🎓 **University**: Tokyo City University, Faculty of Information Engineering (2nd year)
+- 💻 **Major**: Information Science (Department of Information Science)
+- 🚀 **Aspiring to be**: A Backend Engineer who creates value through robust service architecture.
+- ⚡ **Interests**: Backend Development, High-Performance Computing, Mobile App (React Native)
+- 📍 **From**: Japan
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karimiku&theme=tokyonight)
+<br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=karimiku&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+## 🛠 My Skills & Tools
+
+### 🎨 Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,remix,nextjs&perline=6" />
+  </a>
+</p>
+
+### ⚙️ Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,nodejs,bun&perline=6" />
+  </a>
+</p>
+
+### 📦 Infrastructure & Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,docker,mysql,postgres,git&perline=6" />
+  </a>
+</p>
+
+<br>
+
+---
+
+## 🚀 Featured Projects & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karimiku&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <br><br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karimiku&theme=tokyonight&hide_border=true" />
+</div>
