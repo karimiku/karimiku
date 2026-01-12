@@ -2,7 +2,7 @@
 
 # Hi there, I'm Riku Kamiyama 👋
 
-### A Backend Engineer focused on Scalable Systems & Go.
+### A Student Engineer 
 
 <br>
 
