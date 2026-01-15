@@ -8,13 +8,7 @@
 
 </div>
 
-## 👨‍💻 About Me
-
 - 🎓 **University**: Tokyo City University, Faculty of Information Engineering (2nd year)
-- 💻 **Major**: Information Science (Department of Information Science)
-- 🚀 **Aspiring to be**: A Backend Engineer who creates value through robust service architecture.
-- ⚡ **Interests**: Backend Development, High-Performance Computing, Mobile App (React Native)
-- 📍 **From**: Japan
 
 <br>
 
