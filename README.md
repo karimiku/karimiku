@@ -15,24 +15,15 @@
 ## 🛠 My Skills & Tools
 
 ### 🎨 Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,remix,nextjs&perline=6" />
-  </a>
 </p>
 
 ### ⚙️ Backend
-<p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,nodejs,bun,java&perline=6" />
-  </a>
 </p>
 
 ### 📦 Infrastructure & Database
-<p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=gcp,docker,mysql,postgres,git&perline=6" />
-  </a>
 </p>
 
 <br>
