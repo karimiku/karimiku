@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Riku Kamiyama 👋
+どうも、神山陸です！
 
 ### A Student Engineer 
 
