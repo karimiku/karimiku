@@ -26,5 +26,8 @@
     <img src="https://skillicons.dev/icons?i=gcp,docker,mysql,postgres,git&perline=6" />
 </p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=karimiku)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 My GitHub Stats
+
+  <img alt="github stats" height="180px" src="https://github-readme-stats-clone-jgfe.vercel.app/api?username=karimiku&layout=compact&theme=github_dark&count_private=true&include_all_commits=true" />
+
 
