@@ -25,3 +25,5 @@
 ### 📦 Infrastructure & Database
     <img src="https://skillicons.dev/icons?i=gcp,docker,mysql,postgres,git&perline=6" />
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimiku)](https://github.com/anuraghazra/github-readme-stats)
